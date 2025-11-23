@@ -1,4 +1,3 @@
-import React from 'react'
 import { HiX } from 'react-icons/hi'
 import { BsPlayFill } from 'react-icons/bs'
 import videoThumb1 from '../assets/video-thumb-1.png'

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { HiMenu } from 'react-icons/hi'
 import { HiCog6Tooth } from 'react-icons/hi2'
 import { BsPaperclip, BsArrowUp } from 'react-icons/bs'
