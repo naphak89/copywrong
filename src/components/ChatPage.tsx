@@ -55,20 +55,19 @@ export default function ChatPage({
       id: 1,
       type: "bot",
       text: [
-        "According to the file you attached,",
-        "your video could have been taken",
-        "down because...",
+        "Looking at the file you attached, I",
+        "identified two potential issues",
       ],
     },
     {
       id: 2,
       type: "bot",
-      text: ["Would you like any additional", "information?"],
+      text: ["Would you like any additional", " information?"],
     },
     {
       id: 3,
       type: "user",
-      text: ["What part of the video should", "I fix?"],
+      text: ["What part of the video", " should I fix?"],
     },
     {
       id: 4,
